@@ -2,22 +2,9 @@
   <img src="assets/hero/sharks-hero.png" alt="Limoncello — sharks, cyberpunk city and galaxy" width="100%">
 </div>
 
-<h1 align="center">LIMONCELLO</h1>
-
-<p align="center">
-  <strong>GO BACKEND DEVELOPER</strong><br>
-  Building production-oriented backend systems with Go.
-</p>
-
-<p align="center">
-  <em>未来を構築する — Build the future.</em>
-</p>
-
 ---
 
 ## // TECH STACK
-<h2 align="center">Tech Stack</h2>
-
 <p align="center">
   <img src="./assets/icons/go.png" width="100"/>
   <img src="./assets/icons/postgresql.png" width="100"/>
@@ -39,7 +26,7 @@
   <img src="./assets/icons/linux.png" width="100"/>
   <img src="./assets/icons/microservices.png" width="100"/>
 </p>
----
+
 
 ## // CURRENTLY BUILDING
 
@@ -52,24 +39,29 @@
 </tr>
 </table>
 
----
+<h2 align="center">// MISSION</h2>
 
-## // MISSION
+<p align="center">
 
-```text
-GO BACKEND
-    │
-    ▼
-PRODUCTION SYSTEMS
-    │
-    ▼
-DISTRIBUTED SYSTEMS
-    │
-    ▼
-AI INFRASTRUCTURE
-```
+<strong>BUILDING BACKEND SYSTEMS</strong>
 
----
+<br><br>
+
+<code>GO BACKEND</code>
+<br>
+↓
+<br>
+<code>PRODUCTION SYSTEMS</code>
+<br>
+↓
+<br>
+<code>DISTRIBUTED SYSTEMS</code>
+<br>
+↓
+<br>
+<code>AI INFRASTRUCTURE</code>
+
+</p>
 
 ## // ARCHITECTURE
 
@@ -91,19 +83,6 @@ REDIS    POSTGRESQL    KAFKA
 
 ## // CURRENT FOCUS
 
-```text
-BUILDING
-Production-oriented Go systems
-
-NEXT
-Distributed systems
-```
-
----
-
-```text
-SYSTEM STATUS: ONLINE
-```
 
 <div align="center">
   <sub>Building production systems with Go.</sub>

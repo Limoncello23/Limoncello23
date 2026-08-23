@@ -16,118 +16,15 @@
 ---
 
 ## // TECH STACK
+<div align="center">
 
-<table>
-<tr>
+<img src="assets/icons/go.svg" width="90">
+<img src="assets/icons/postgres.svg" width="90">
+<img src="assets/icons/redis.svg" width="90">
+<img src="assets/icons/kafka.svg" width="90">
+<img src="assets/icons/grpc.svg" width="90">
 
-<td align="center">
-<img src="assets/icons/go.svg" width="35">
-<br>
-<b>GO</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/postgresql.svg" width="35">
-<br>
-<b>POSTGRESQL</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/redis.svg" width="35">
-<br>
-<b>REDIS</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/kafka.svg" width="35">
-<br>
-<b>KAFKA</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/grpc.svg" width="35">
-<br>
-<b>gRPC</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/rest.svg" width="35">
-<br>
-<b>REST</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="assets/icons/openapi.svg" width="35">
-<br>
-<b>OPENAPI</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/docker.svg" width="35">
-<br>
-<b>DOCKER</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/compose.svg" width="35">
-<br>
-<b>COMPOSE</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/jwt.svg" width="35">
-<br>
-<b>JWT</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/cicd.svg" width="35">
-<br>
-<b>CI/CD</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/testing.svg" width="35">
-<br>
-<b>TESTING</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="assets/icons/slog.svg" width="35">
-<br>
-<b>SLOG</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/prometheus.svg" width="35">
-<br>
-<b>PROMETHEUS</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/grafana.svg" width="35">
-<br>
-<b>GRAFANA</b>
-</td>
-
-<td align="center">
-<img src="assets/icons/graceful.svg" width="35">
-<br>
-<b>GRACEFUL</b>
-</td>
-
-</tr>
-
-</table>
-
+</div>
 ---
 
 ## // CURRENTLY BUILDING

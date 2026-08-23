@@ -19,25 +19,25 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="./assets/icons/go.png" width="120"/>
-  <img src="./assets/icons/postgresql.png" width="120"/>
-  <img src="./assets/icons/redis.png" width="120"/>
-  <img src="./assets/icons/kafka.png" width="120"/>
-  <img src="./assets/icons/grpc.png" width="120"/>
-  <img src="./assets/icons/http.png" width="120"/>
-  <img src="./assets/icons/docker.png" width="120"/>
-  <img src="./assets/icons/kubernetes.png" width="120"/>
+  <img src="./assets/icons/go.png" width="100"/>
+  <img src="./assets/icons/postgresql.png" width="100"/>
+  <img src="./assets/icons/redis.png" width="100"/>
+  <img src="./assets/icons/kafka.png" width="100"/>
+  <img src="./assets/icons/grpc.png" width="100"/>
+  <img src="./assets/icons/http.png" width="100"/>
+  <img src="./assets/icons/docker.png" width="100"/>
+  <img src="./assets/icons/kubernetes.png" width="100"/>
 </p>
 
 <p align="center">
-  <img src="./assets/icons/migrations.png" width="120"/>
-  <img src="./assets/icons/jwt.png" width="120"/>
-  <img src="./assets/icons/testing.png" width="120"/>
-  <img src="./assets/icons/cicd.png" width="120"/>
-  <img src="./assets/icons/prometheus.png" width="120"/>
-  <img src="./assets/icons/observability.png" width="120"/>
-  <img src="./assets/icons/linux.png" width="120"/>
-  <img src="./assets/icons/microservices.png" width="120"/>
+  <img src="./assets/icons/migrations.png" width="100"/>
+  <img src="./assets/icons/jwt.png" width="100"/>
+  <img src="./assets/icons/testing.png" width="100"/>
+  <img src="./assets/icons/cicd.png" width="100"/>
+  <img src="./assets/icons/prometheus.png" width="100"/>
+  <img src="./assets/icons/observability.png" width="100"/>
+  <img src="./assets/icons/linux.png" width="100"/>
+  <img src="./assets/icons/microservices.png" width="100"/>
 </p>
 ---
 

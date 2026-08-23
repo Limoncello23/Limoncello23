@@ -2,45 +2,86 @@
   <img src="assets/hero/sharks-hero.png" alt="Limoncello — sharks, cyberpunk city and galaxy" width="100%">
 </div>
 
-# LIMONCELLO
+<h1 align="center">LIMONCELLO</h1>
 
-**Go Backend Developer**
+<p align="center">
+  <strong>GO BACKEND DEVELOPER</strong><br>
+  Building production-oriented backend systems with Go.
+</p>
 
-Building production-oriented backend systems with Go.
-
-> 未来を構築する — **Build the future.**
+<p align="center">
+  <em>未来を構築する — Build the future.</em>
+</p>
 
 ---
 
 ## // TECH STACK
 
-| Core | Backend | Infrastructure |
-|---|---|---|
-| **Go** | **REST API** | **Docker** |
-| **PostgreSQL** | **gRPC** | **Docker Compose** |
-| **Redis** | **OpenAPI** | **Kafka** |
-| **JWT** | **Testing** | **CI/CD** |
-| **Slog** | | **Prometheus** |
-| | | **Grafana** |
-| | | **Graceful Shutdown** |
+<table>
+<tr>
+<td align="center" width="25%"><strong>GO</strong><br><sub>Backend Core</sub></td>
+<td align="center" width="25%"><strong>POSTGRESQL</strong><br><sub>Primary Database</sub></td>
+<td align="center" width="25%"><strong>REDIS</strong><br><sub>Cache / Storage</sub></td>
+<td align="center" width="25%"><strong>KAFKA</strong><br><sub>Event Streaming</sub></td>
+</tr>
+<tr>
+<td align="center"><strong>gRPC</strong><br><sub>Service Communication</sub></td>
+<td align="center"><strong>REST API</strong><br><sub>HTTP Interfaces</sub></td>
+<td align="center"><strong>OPENAPI</strong><br><sub>API Contracts</sub></td>
+<td align="center"><strong>DOCKER</strong><br><sub>Containers</sub></td>
+</tr>
+<tr>
+<td align="center"><strong>DOCKER COMPOSE</strong><br><sub>Local Infrastructure</sub></td>
+<td align="center"><strong>JWT</strong><br><sub>Authentication</sub></td>
+<td align="center"><strong>TESTING</strong><br><sub>Quality</sub></td>
+<td align="center"><strong>SLOG</strong><br><sub>Structured Logging</sub></td>
+</tr>
+<tr>
+<td align="center"><strong>CI/CD</strong><br><sub>Automation</sub></td>
+<td align="center"><strong>PROMETHEUS</strong><br><sub>Metrics</sub></td>
+<td align="center"><strong>GRAFANA</strong><br><sub>Observability</sub></td>
+<td align="center"><strong>GRACEFUL SHUTDOWN</strong><br><sub>Reliability</sub></td>
+</tr>
+</table>
 
 ---
 
 ## // CURRENTLY BUILDING
 
-```text
-┌────────────────────┐  ┌────────────────────┐
-│                    │  │                    │
-│   IN PROGRESS...   │  │   IN PROGRESS...   │
-│                    │  │                    │
-└────────────────────┘  └────────────────────┘
-
-┌────────────────────┐  ┌────────────────────┐
-│                    │  │                    │
-│   IN PROGRESS...   │  │   IN PROGRESS...   │
-│                    │  │                    │
-└────────────────────┘  └────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="50%">
+<br>
+<strong>/// IN PROGRESS...</strong>
+<br><br>
+<sub>System under construction.</sub>
+<br><br>
+</td>
+<td align="center" width="50%">
+<br>
+<strong>/// IN PROGRESS...</strong>
+<br><br>
+<sub>System under construction.</sub>
+<br><br>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br>
+<strong>/// IN PROGRESS...</strong>
+<br><br>
+<sub>System under construction.</sub>
+<br><br>
+</td>
+<td align="center">
+<br>
+<strong>/// IN PROGRESS...</strong>
+<br><br>
+<sub>System under construction.</sub>
+<br><br>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,20 +102,20 @@ AI INFRASTRUCTURE
 ## // ARCHITECTURE
 
 ```text
-                    CLIENT
-                      │
-                      ▼
-                     API
-                      │
-                      ▼
-                   SERVICE
-                 ┌────┼────┐
-                 │    │    │
-                 ▼    ▼    ▼
-              REDIS  DB   KAFKA
-                     │
-                     ▼
-                POSTGRESQL
+                         CLIENT
+                           │
+                           ▼
+                          API
+                           │
+                           ▼
+                        SERVICE
+                      ┌────┼────┐
+                      │    │    │
+                      ▼    ▼    ▼
+                    REDIS  DB  KAFKA
+                           │
+                           ▼
+                      POSTGRESQL
 ```
 
 ---

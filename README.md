@@ -49,16 +49,12 @@
 ## // CURRENTLY BUILDING
 
 <table>
-## // CURRENTLY BUILDING
-
-<table>
 <tr>
 <td align="center" width="25%"><img src="assets/progress/in-progress-01.png" width="100%" alt="In progress 01"></td>
 <td align="center" width="25%"><img src="assets/progress/in-progress-02.png" width="100%" alt="In progress 02"></td>
 <td align="center" width="25%"><img src="assets/progress/in-progress-03.png" width="100%" alt="In progress 03"></td>
 <td align="center" width="25%"><img src="assets/progress/in-progress-04.png" width="100%" alt="In progress 04"></td>
 </tr>
-</table>
 </table>
 
 ---
@@ -67,11 +63,14 @@
 
 ```text
 GO BACKEND
-    ↓
+    │
+    ▼
 PRODUCTION SYSTEMS
-    ↓
+    │
+    ▼
 DISTRIBUTED SYSTEMS
-    ↓
+    │
+    ▼
 AI INFRASTRUCTURE
 ```
 
@@ -80,20 +79,17 @@ AI INFRASTRUCTURE
 ## // ARCHITECTURE
 
 ```text
-                         CLIENT
-                           │
-                           ▼
-                          API
-                           │
-                           ▼
-                        SERVICE
-                      ┌────┼────┐
-                      │    │    │
-                      ▼    ▼    ▼
-                    REDIS  DB  KAFKA
-                           │
-                           ▼
-                      POSTGRESQL
+CLIENT
+   │
+   ▼
+  API
+   │
+   ▼
+SERVICE
+ ┌─┼──────────┐
+ │ │          │
+ ▼ ▼          ▼
+REDIS    POSTGRESQL    KAFKA
 ```
 
 ---
@@ -101,11 +97,11 @@ AI INFRASTRUCTURE
 ## // CURRENT FOCUS
 
 ```text
-GO BACKEND
-      ↓
-PRODUCTION SYSTEMS
-      ↓
-DISTRIBUTED SYSTEMS
+BUILDING
+Production-oriented Go systems
+
+NEXT
+Distributed systems
 ```
 
 ---

@@ -49,38 +49,16 @@
 ## // CURRENTLY BUILDING
 
 <table>
+## // CURRENTLY BUILDING
+
+<table>
 <tr>
-<td align="center" width="50%">
-<br>
-<strong>/// IN PROGRESS...</strong>
-<br><br>
-<sub>System under construction.</sub>
-<br><br>
-</td>
-<td align="center" width="50%">
-<br>
-<strong>/// IN PROGRESS...</strong>
-<br><br>
-<sub>System under construction.</sub>
-<br><br>
-</td>
+<td align="center" width="25%"><img src="assets/progress/in-progress-01.png" width="100%" alt="In progress 01"></td>
+<td align="center" width="25%"><img src="assets/progress/in-progress-02.png" width="100%" alt="In progress 02"></td>
+<td align="center" width="25%"><img src="assets/progress/in-progress-03.png" width="100%" alt="In progress 03"></td>
+<td align="center" width="25%"><img src="assets/progress/in-progress-04.png" width="100%" alt="In progress 04"></td>
 </tr>
-<tr>
-<td align="center">
-<br>
-<strong>/// IN PROGRESS...</strong>
-<br><br>
-<sub>System under construction.</sub>
-<br><br>
-</td>
-<td align="center">
-<br>
-<strong>/// IN PROGRESS...</strong>
-<br><br>
-<sub>System under construction.</sub>
-<br><br>
-</td>
-</tr>
+</table>
 </table>
 
 ---

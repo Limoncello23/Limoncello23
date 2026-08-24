@@ -39,11 +39,19 @@
 </tr>
 </table>
 
+<br>
+
 <h2>// MISSION</h2>
 
 <div align="center">
-  <img src="assets/mission/mission.png" alt="Build Better Systems — Engineering Principles" width="100%">
+  <img
+    src="assets/mission/mission.png"
+    alt="Build Better Systems"
+    width="100%"
+  >
 </div>
+
+<br>
 
 ## // ARCHITECTURE
 

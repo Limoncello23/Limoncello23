@@ -40,6 +40,15 @@
 </table>
 
 <br>
+<h2>// TERMINAL</h2>
+
+<div align="center">
+  <img
+    src="assets/terminal/terminal.gif"
+    alt="Limoncello terminal"
+    width="100%"
+  >
+</div>
 
 <h2>// MISSION</h2>
 

@@ -39,29 +39,11 @@
 </tr>
 </table>
 
-<h2 align="center">// MISSION</h2>
+<h2>// MISSION</h2>
 
-<p align="center">
-
-<strong>BUILDING BACKEND SYSTEMS</strong>
-
-<br><br>
-
-<code>GO BACKEND</code>
-<br>
-↓
-<br>
-<code>PRODUCTION SYSTEMS</code>
-<br>
-↓
-<br>
-<code>DISTRIBUTED SYSTEMS</code>
-<br>
-↓
-<br>
-<code>AI INFRASTRUCTURE</code>
-
-</p>
+<div align="center">
+  <img src="assets/mission/mission.png" alt="Build Better Systems — Engineering Principles" width="100%">
+</div>
 
 ## // ARCHITECTURE
 

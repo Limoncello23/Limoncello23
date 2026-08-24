@@ -11,9 +11,9 @@
   <img src="./assets/icons/redis.png" width="100"/>
   <img src="./assets/icons/kafka.png" width="100"/>
   <img src="./assets/icons/grpc.png" width="100"/>
-  <img src="./assets/icons/http.png" width="100"/>
+  <img src="./assets/icons/http.png?v=2" width="100"/>
   <img src="./assets/icons/docker.png" width="100"/>
-  <img src="./assets/icons/kubernetes.png" width="100"/>
+  <img src="./assets/icons/kubernetes.png?v=2" width="100"/>
 </p>
 
 <p align="center">

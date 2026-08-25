@@ -60,24 +60,6 @@
 
 <br>
 
-## // ARCHITECTURE
-
-```text
-CLIENT
-   │
-   ▼
-  API
-   │
-   ▼
-SERVICE
- ┌─┼──────────┐
- │ │          │
- ▼ ▼          ▼
-REDIS    POSTGRESQL    KAFKA
-```
-
----
-
 ## // CURRENT FOCUS
 
 

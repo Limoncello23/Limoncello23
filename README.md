@@ -60,9 +60,4 @@
 
 <br>
 
-## // CURRENT FOCUS
-
-
-<div align="center">
-  <sub>Building production systems with Go.</sub>
-</div>
+## // ENGINEERING MINDSET

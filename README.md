@@ -60,4 +60,9 @@
 
 <br>
 
-## // ENGINEERING MINDSET
+## // ENGINEERING PHILOSOPHY
+<div align="center">
+  <img src="assets/engineering-mindset/engineering-mindset.png"
+       alt="Engineering Mindset"
+       width="100%">
+</div>

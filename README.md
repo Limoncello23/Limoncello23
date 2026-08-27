@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero/sharks-hero.png?v=2" alt="Limoncello — sharks, cyberpunk city and galaxy" width="100%">
+  <img src="assets/Hero/sharks-hero.png?v=3" alt="Limoncello — sharks, cyberpunk city and galaxy" width="100%">
 </div>
 <h2>// TERMINAL</h2>
 
